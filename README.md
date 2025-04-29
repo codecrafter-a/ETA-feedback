@@ -104,13 +104,13 @@
 
 | Phase | Task | Hours | Notes |
 |-------|------|-------|-------|
-| Core | Routing migration | 45 | All pages and API routes |
-| Core | Data fetching | 35 | Server components, caching |
-| Core | Components | 40 | Server/client split |
-| Core | State management | 25 | Hooks, context |
-| Testing | QA and testing | 30 | Manual and automated |
-| Optimization | Performance | 15 | Build and runtime |
-| Documentation | Updates | 10 | New patterns and changes |
+| Core | Routing migration | 30 | All pages and API routes |
+| Core | Data fetching | 20 | Server components, caching |
+| Core | Components | 25 | Server/client split |
+| Core | State management | 15 | Hooks, context |
+| Testing | QA and testing | 15 | Manual and automated |
+| Optimization | Performance | 10 | Build and runtime |
+| Documentation | Updates | 5 | New patterns and changes |
 | **Total** | | **125** | |
 
 **Total Estimated Timeline:**
